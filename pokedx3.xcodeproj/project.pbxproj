@@ -12,6 +12,7 @@
 		AE6D27C41E45D037009E6B6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE6D27C21E45D037009E6B6C /* Main.storyboard */; };
 		AE6D27C61E45D037009E6B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE6D27C51E45D037009E6B6C /* Assets.xcassets */; };
 		AE6D27C91E45D037009E6B6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE6D27C71E45D037009E6B6C /* LaunchScreen.storyboard */; };
+		AEC53F3B1E45DAE0000DD687 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = AEC53F3A1E45DAE0000DD687 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AE6D27C51E45D037009E6B6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE6D27C81E45D037009E6B6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE6D27CA1E45D037009E6B6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEC53F3A1E45DAE0000DD687 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				AE6D27C01E45D037009E6B6C /* ViewController.swift */,
 				AE6D27C21E45D037009E6B6C /* Main.storyboard */,
 				AE6D27C51E45D037009E6B6C /* Assets.xcassets */,
+				AEC53F3A1E45DAE0000DD687 /* pokemon.csv */,
 				AE6D27C71E45D037009E6B6C /* LaunchScreen.storyboard */,
 				AE6D27CA1E45D037009E6B6C /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				AE6D27C91E45D037009E6B6C /* LaunchScreen.storyboard in Resources */,
 				AE6D27C61E45D037009E6B6C /* Assets.xcassets in Resources */,
+				AEC53F3B1E45DAE0000DD687 /* pokemon.csv in Resources */,
 				AE6D27C41E45D037009E6B6C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				AE6D27CF1E45D037009E6B6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
